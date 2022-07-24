@@ -1,0 +1,29 @@
+nav {
+    background:transparent;
+}
+
+nav:hover {
+    background-color: #023047;
+    
+}
+
+.navbar-brand {
+    color: #ffb703;
+}
+
+.navbar a:visited {
+    color: #fb8500;
+    text-decoration: 1px solid white underline;
+}
+
+.navbar-brand:hover {
+    color: #fb8500;
+}
+
+.nav-link {
+    color: #ffb703;
+}
+
+.nav-link:hover {
+    color: #fb8500;
+}
